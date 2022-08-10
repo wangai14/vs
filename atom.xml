@@ -82,4 +82,21 @@
     
   </entry>
   
+  <entry>
+    <title>博客测试</title>
+    <link href="http://ze520.cn/posts/1.html"/>
+    <id>http://ze520.cn/posts/1.html</id>
+    <published>2021-05-27T13:00:00.000Z</published>
+    <updated>2022-08-10T08:51:34.726Z</updated>
+    
+    
+    
+    
+    <category term="生活" scheme="http://ze520.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="想法" scheme="http://ze520.cn/tags/%E6%83%B3%E6%B3%95/"/>
+    
+  </entry>
+  
 </feed>
