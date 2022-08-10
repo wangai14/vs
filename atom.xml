@@ -6,7 +6,7 @@
   <link href="http://ze520.cn/atom.xml" rel="self"/>
   
   <link href="http://ze520.cn/"/>
-  <updated>2022-08-10T06:33:10.217Z</updated>
+  <updated>2022-08-10T09:17:22.429Z</updated>
   <id>http://ze520.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://ze520.cn/posts/0.html"/>
+    <id>http://ze520.cn/posts/0.html</id>
+    <published>2022-08-10T09:16:15.657Z</published>
+    <updated>2022-08-10T09:17:22.429Z</updated>
+    
+    <content type="html"><![CDATA[<p>nih</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;nih&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>
